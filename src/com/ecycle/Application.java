@@ -1,6 +1,6 @@
 package com.ecycle;
 
-import com.ecycle.modle.*;
+import com.ecycle.model.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package com.ecycle.modle;
+package com.ecycle.model;
 
 import com.ecycle.Application;
 import com.ecycle.Editor;

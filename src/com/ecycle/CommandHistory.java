@@ -1,6 +1,6 @@
 package com.ecycle;
 
-import com.ecycle.modle.Command;
+import com.ecycle.model.Command;
 
 import java.util.Stack;
 
